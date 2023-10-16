@@ -1,26 +1,20 @@
 {
-  "name": "assign1",
-  "version": "0.0.0",
-  "private": true,
-  "scripts": {
-    "start": "node ./bin/www"
-  },
-  "dependencies": {
-    "cookie-parser": "~1.4.4",
-    "debug": "~2.6.9",
-    "express": "~4.16.1",
-    "hbs": "~4.0.4",
-    "http-errors": "~1.6.3",
-    "morgan": "~1.9.1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/tarundeep2003/assign1.git"
-   },
-   "author": "",
-    "license": "ISC",
-    "bugs": {
-    "url": "https://github.com/tarundeep2003/assign1/issues"
-    },
-   "homepage": "https://github.com/tarundeep2003/assign1#readme"
-}
+     "name": "assign1",
+     "version": "1.0.0",
+     "description": "",
+     "scripts": {
+         "build": "echo \"No build specified\" && exit 1",
+         "test": "echo \"No test specified\" && exit 1",
+         "start": "node index.js"
+      },
+      "repository": {
+          "type": "git",
+          "url": "git+https://github.com/tarundeep2003/assign1.git"
+      },
+      "author": "",
+      "license": "ISC",
+      "bugs": {
+          "url": "https://github.com/tarundeep2003/assign1/issues"
+      },
+      "homepage": "https://github.com/tarundeep2003/assign1#readme"
+  }
