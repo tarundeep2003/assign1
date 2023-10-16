@@ -12,5 +12,15 @@
     "hbs": "~4.0.4",
     "http-errors": "~1.6.3",
     "morgan": "~1.9.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarundeep2003/assign1.git"
+   },
+   "author": "",
+    "license": "ISC",
+    "bugs": {
+    "url": "https://github.com/tarundeep2003/assign1/issues"
+    },
+   "homepage": "https://github.com/tarundeep2003/assign1#readme"
 }
